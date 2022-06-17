@@ -1,0 +1,22 @@
+PODS:
+  - apple_image_similarity (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - apple_image_similarity (from `.symlinks/plugins/apple_image_similarity/ios`)
+  - Flutter (from `Flutter`)
+
+EXTERNAL SOURCES:
+  apple_image_similarity:
+    :path: ".symlinks/plugins/apple_image_similarity/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  apple_image_similarity: c0b4425e62c0dfaf0e162ba9c31007dd9b7392e0
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+
+PODFILE CHECKSUM: 30517025a2fecca2d72dac25f08abb5b9a8f1a56
+
+COCOAPODS: 1.11.3
